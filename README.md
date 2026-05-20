@@ -1,0 +1,2 @@
+# MailFilter-
+Filter Duplicate Emails 
